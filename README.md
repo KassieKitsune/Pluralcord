@@ -1,3 +1,15 @@
+# Pluralcord
+
+This Repo is a fork of Vencord with pkAPI.api dependency and [pKPrism](https://github.com/KassieKitsune/pkPrism) plugin added, no guarantees that this works as expected. Recommended to install pkPrism as a userplugin for now.
+
+## Cloning
+The pkPrism is included in this repo as a submodule, thus when cloning, use the ```--recursive``` flag as shown bellow.
+
+```git clone --recursive https://github.com/kassiekitsune/pluralcord.git```
+
+## Original Vencord README:
+<details>
+
 # Vencord
 
 ![](https://img.shields.io/github/package-json/v/Vendicated/Vencord?style=for-the-badge&logo=github&logoColor=d3869b&label=&color=1d2021&labelColor=282828)
@@ -61,5 +73,7 @@ However, Discord is pretty indifferent about them and there are no known cases o
 Regardless, if your account is very important to you and it getting disabled would be a disaster for you, you should probably not use any client mods (not exclusive to Vencord), just to be safe
 
 Additionally, make sure not to post screenshots with Vencord in a server where you might get banned for it
+
+</details>
 
 </details>
