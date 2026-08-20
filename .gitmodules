@@ -1,0 +1,4 @@
+
+[submodule "src/plugins/pkPrism"]
+	path = src/plugins/pkPrism
+	url = https://github.com/KassieKitsune/pkPrism.git
