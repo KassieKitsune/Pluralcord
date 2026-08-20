@@ -1,11 +1,16 @@
 # Pluralcord
 
-This Repo is a fork of Vencord with pkAPI.api dependency and [pKPrism](https://github.com/KassieKitsune/pkPrism) plugin added, no guarantees that this works as expected. Recommended to install pkPrism as a userplugin for now.
+This Repo is a fork of Vencord with pkAPI.api dependency and [pKPrism](https://github.com/KassieKitsune/pkPrism) plugin built in, no guarantees that this works as expected. Recommended to install pkPrism as a userplugin for now.
 
 ## Cloning
 pkPrism is included in this repo as a submodule, thus when cloning, use the ```--recursive``` flag as shown bellow.
 
 ```git clone --recursive https://github.com/kassiekitsune/pluralcord.git```
+
+## Installation
+Download and run the appropriate [installer](https://github.com/KassieKitsune/PluralcordInstaller) <br><br>
+or <br><br>
+Clone this repo and build from source.
 
 ## Original Vencord README:
 <details>
